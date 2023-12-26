@@ -116,7 +116,7 @@ h3 {
   height: 100%;
   opacity: 0;
   filter: alpha(opacity=0);
-  background: url('../public//item-black.jpeg');
+  background: url('../public/item-black.jpeg');
   background-size: cover;
   -webkit-transition: opacity 0.4s ease;
   transition: opacity 0.4s ease;
